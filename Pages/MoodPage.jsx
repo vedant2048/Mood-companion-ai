@@ -12,7 +12,7 @@ function MoodPage() {
     setQuote("");
     try {
       const nres = await fetch(
-  `http://localhost:5000/api/quotefor/${encodeURIComponent(reason)}?mood=${mood}`
+  `/api/quotefor/${encodeURIComponent(reason)}?mood=${mood}`
     );
       const ndata = await nres.json();
       setQuote(ndata.quote);
@@ -33,7 +33,7 @@ function MoodPage() {
 
     try {
       const res = await fetch(
-        `http://localhost:5000/api/quote?mood=${mood}`
+        `/api/quote?mood=${mood}`
       );
 
       const data = await res.json();
