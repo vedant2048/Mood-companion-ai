@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-vercel-link.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge"/></a>
+  <a href="https://mood-companion-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
   <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js"/>
