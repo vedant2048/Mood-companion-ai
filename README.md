@@ -1,69 +1,42 @@
-<!-- Generated with README.exe by Kunal 🚀 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=vedant2048&fontSize=90" />
-</div>
+<!-- ================= HEADER ================= -->
 
-<div align="center">
-  <h1>Hi, I'm vedant2048! 👋</h1>
-  <h3>Full Stack residing in Mumbai</h3>
+<h1 align="center">🌿 Mood Companion AI</h1>
 
-  <p align="center">
-    👋 A mix of code, coffee, and curiosity ☕💻. 🎯 Enjoys experimenting with tech, building side projects, and exploring creative ideas whenever inspiration strikes. 🔍 Also values learning new perspectives, talking about random ideas, and keeping things fun while chasing growth 🚀.
-  </p>
-</div>
+<p align="center">
+  <b>Your AI-powered emotional support companion</b><br/>
+  Generate comforting, personalized messages based on your mood 💙
+</p>
 
----
-
-<div align="center">
-  <h2>🚀 Connectivity</h2>
-  
-<a href="">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/AI-Gemini-8E44AD?style=for-the-badge"/>
+</p>
 
 ---
 
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  
-</div>
+## ✨ Overview
+
+Mood Companion AI is a modern AI web application that provides supportive, human-like messages tailored to your emotions and situations.
+
+Whether you're feeling stressed, anxious, happy, or overwhelmed — the app responds with warmth and empathy.
 
 ---
 
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=vedant2048&theme=radical" />
-</div>
+## 🎯 Key Features
+
+✨ Personalized AI-generated messages  
+🧠 Context-aware responses based on mood + reason  
+🎲 Random uplifting quotes  
+⚡ Lightning-fast serverless backend  
+🌙 Clean dark UI with Tailwind CSS  
+📱 Fully responsive design  
+☁️ Seamless Vercel deployment  
 
 ---
 
-<div align="center">
-  <h2>📂 Highlighted Projects</h2>
-</div>
+## 🖼️ Screenshots
 
-- **[Mood-companion-ai](https://github.com/vedant2048/Mood-companion-ai)** – No description
-
----
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vedant2048&show_icons=true&theme=tokyonight" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant2048&layout=compact&theme=tokyonight" height="170" />
-  </div>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant2048&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <br/>
-  <sub>Generated with <a href="https://github.com/kunal-shetty/readme-generator"><b>README.exe</b></a> by Kunal</sub>
-</div>
+> Add screenshots of your app here
