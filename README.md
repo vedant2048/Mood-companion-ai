@@ -1,16 +1,42 @@
-# React + Vite
+<!-- ================= HEADER ================= -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">🌿 Mood Companion AI</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+  <b>Your AI-powered emotional support companion</b><br/>
+  Generate comforting, personalized messages based on your mood 💙
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <a href="https://mood-companion-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/AI-Gemini-8E44AD?style=for-the-badge"/>
+</p>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Overview
 
-## Expanding the ESLint configuration
+Mood Companion AI is a modern AI web application that provides supportive, human-like messages tailored to your emotions and situations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Whether you're feeling stressed, anxious, happy, or overwhelmed — the app responds with warmth and empathy.
+
+---
+
+## 🎯 Key Features
+
+✨ Personalized AI-generated messages  
+🧠 Context-aware responses based on mood + reason  
+🎲 Random uplifting quotes  
+⚡ Lightning-fast serverless backend  
+🌙 Clean dark UI with Tailwind CSS  
+📱 Fully responsive design  
+☁️ Seamless Vercel deployment  
+
+---
+
+## 🖼️ Screenshots
+
+> Add screenshots of your app here
